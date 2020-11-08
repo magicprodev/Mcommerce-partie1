@@ -22,6 +22,8 @@ public class Product {
     @Min(value = 1)
     private int prix;
 
+    //elabdallaoui 
+    
     //information que nous ne souhaitons pas exposer
     private int prixAchat;
 
